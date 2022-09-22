@@ -14,11 +14,6 @@ of particles at different time intervals using Jupyter Notebook.
 - Size of Visualization can be changed.
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## Screenshots
 
 <img src="./github_images/ss.png" height="500">
