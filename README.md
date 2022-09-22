@@ -21,7 +21,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-<img src="./github_images/ss.png" >
+<img src="./github_images/ss.png" height="500">
 
 
 ## Tech Stack
