@@ -21,7 +21,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](./github_images/ss.png)
+<img src="./github_images/ss.png" >
 
 
 ## Tech Stack
