@@ -21,7 +21,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1wMpe4IgNO5i5mDk60XM287LK1QOqOxEu/view?usp=sharing)
+![App Screenshot](./github_images/ss.png)
 
 
 ## Tech Stack
